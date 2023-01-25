@@ -1,0 +1,15 @@
+Subject				Grades
+
+Project.M				B
+
+Logic.D				B
+
+system.A				C
+
+F/Math				D
+
+Physics				A
+
+Networking				C
+
+cloud.C				A

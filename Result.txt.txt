@@ -1,0 +1,13 @@
+NAMES				GRADES
+
+John				C
+
+Mary				B
+
+Peter				B
+
+Frank				A
+
+Jane				B
+
+Dominic			A
